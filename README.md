@@ -12,12 +12,12 @@
   <summary>About Me</summary>
 
 - 🌱 I’m currently learning Python, Django, Html, CSS, JavaScript and Bootstrap;
-- 💬 Ask me about chess, series and movies!
+- 💬 Ask me about engineering, animes and movies!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-de-faveri/); [Twitter](https://twitter.com/leonardo_faveri); [Instagram](https://www.instagram.com/leodf41/);
 </details>
 
 <p align="justify">
-  <a href="https://github.com/BrunoNishimura/github-readme-stats">
+  <a href="https://github.com/Leodf/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Leodf&count_private=true&show_icons=true&custom_title=Leonardo de Faveri's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
