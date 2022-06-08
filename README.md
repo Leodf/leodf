@@ -4,10 +4,10 @@
 
 <h1> Hi there, I'm Leonardo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-de-faveri/)](https://www.linkedin.com/in/leonardo-de-faveri/)
-[![Outlook Badge](https://img.shields.io/badge/-by.nishimura@gmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:by.nishimura@gmail.com)](mailto:by.nishimura;2gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/Bruno%20Nishimura/badges/micro)](https://www.codewars.com/users/Bruno%20Nishimura/)
-[![Visitors GH Badge](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)](https://badges.pufler.dev/visits/BrunoNishimura/BrunoNishimura)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-de-faveri/)](https://www.linkedin.com/in/leonardo-de-faveri/)
+![Outlook](https://img.shields.io/badge/-faver_i@hotmail.com-0078D4?style=flat-square-badge&logo=microsoft-outlook&logoColor=white&link=mailto:faver_i@hotmail.com)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square-badge&logo=Twitter&logoColor=white&link=https://twitter.com/leonardo_faveri)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <details open>
   <summary>About Me</summary>
