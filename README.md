@@ -11,7 +11,7 @@
 <details open>
   <summary>About Me</summary>
 
-- 🌱 I’m currently learning Python, Django, Html, CSS, JavaScript and Bootstrap;
+- 🌱 I learning software development.
 - 💬 Ask me about engineering, animes and movies!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-de-faveri/); [Twitter](https://twitter.com/leonardo_faveri); [Instagram](https://www.instagram.com/leodf41/);
 </details>
