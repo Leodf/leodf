@@ -34,7 +34,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- ![Snake animation](https://github.com/Leodf/Leodf/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Leodf/Leodf/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
